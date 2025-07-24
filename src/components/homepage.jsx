@@ -1,7 +1,7 @@
 "use client"
 
 import { useEffect, useState } from "react"
-import "./HomePage.css"
+import "./Homepage.css"
 
 function HomePage({ onProductClick }) {
   const [products, setProducts] = useState([])
