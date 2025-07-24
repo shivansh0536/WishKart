@@ -4,7 +4,7 @@
 import { useState, useEffect } from "react"
 import Navbar from "./components/navbar"
 import Footer from "./components/footer"
-import HomePage from "./components/Homepage"
+import HomePage from "./components/homepage"
 import WishlistPage from "./pages/WishlistPage"
 import RecommendationsPage from "./pages/RecommendationsPage"
 import AboutPage from "./pages/AboutPage"
