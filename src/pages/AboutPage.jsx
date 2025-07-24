@@ -88,7 +88,7 @@ function AboutPage() {
             </div>
             <div className="tech-item">
               <span>🌐</span>
-              REST APIs
+              FAKE APIs
             </div>
             <div className="tech-item">
               <span>💾</span>
