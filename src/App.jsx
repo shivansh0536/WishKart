@@ -3,7 +3,7 @@
 // src/App.jsx
 import { useState, useEffect } from "react"
 import Navbar from "./components/navbar"
-import Footer from "./components/Footer"
+import Footer from "./components/footer"
 import HomePage from "./components/HomePage"
 import WishlistPage from "./pages/WishlistPage"
 import RecommendationsPage from "./pages/RecommendationsPage"
